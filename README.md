@@ -1,4 +1,4 @@
-### Hi there 👋, I am Abdullah Arman
+#I am Abdullah Arman
 #### Web Developer
 I am a frontend developer.
 
