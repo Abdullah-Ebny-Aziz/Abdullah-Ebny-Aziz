@@ -1,5 +1,5 @@
-#I am Abdullah Arman
-#### Web Developer
+# Abdullah Arman
+#Web Developer
 I am a frontend developer.
 
 Skills: REACT / JS / HTML / CSS
