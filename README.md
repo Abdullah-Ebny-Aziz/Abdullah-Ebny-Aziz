@@ -33,9 +33,9 @@ _Thanks for going through my Portfolio. All rights reserved by Abdulla Bin Aziz 
 
 
 <!-- All Link is hare -->
-[Facebook]:https://www.facebook.com/mohammadabdullaazziz
-[Instagram]:https://www.instagram.com/mohammadabdullaazziz/
-[Twitter]:https://x.com/mohammdabdullaa
+[Facebook]:mohammadabdullaazziz
+[Instagram]:mohammadabdullaazziz/
+[Twitter]:mohammdabdullaa
 
 
 
